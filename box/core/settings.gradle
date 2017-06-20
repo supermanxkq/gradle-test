@@ -1,0 +1,4 @@
+include 'bean'
+include 'api'
+
+rootProject.name = 'core'

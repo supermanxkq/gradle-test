@@ -1,0 +1,6 @@
+rootProject.name = 'box'
+
+include 'web'
+include 'bean'
+include 'api'
+include 'core'
